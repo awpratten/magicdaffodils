@@ -2,23 +2,24 @@
 title: Home
 ---
 
-![In Action](/images/action/meWithMagicDaffodilsJuneConcertSeries.jpg)
+Magic Daffodils is a group of London Ontario musicians who are keen to collaborate and produce original music.   Our music is freely improvised with virtually no prior discussion other than the occasional direction for one of us to "start something".   The resulting music varies quite a bit, even within a single piece, and can be described as oscillating between free noise and ambience.
 
-I am a musician and composer. I am interested in creating music that apply textures, guitar effects, loops, found sounds, and accidental sounds.  While I am primarily a guitarist, I do dabble with other instruments such as double bass, my home made Cajon, and piano.   I also do some music programming.
+ 
 
-I have a sound, a tone, a music in my head that I am trying to express.  I know this isn't unique.  Most creative musicians will say the same thing.  
+Magic Daffodils consists of a diverse group of musicians, all with a long history in the London music scene:
 
-I've always had an interest in creating and recording music.   Even as a young teen, I was experimenting creating music using multiple cassette decks to simulate overdubbing.   Things changed significantly when I was able to purchase an early 4 track cassette recorder (Fostex X15).   I used that Fostex extensively to record both my own music as well as create demo tracks for area bands.
+    Alex Schmoll - Synths. Electronic Gadgets and FX
+    Art Pratten - Pratt-o-various
+    Bernie Koenig - Drums and Vibes
+    Calien Dye - Bass and FX
+    Richard Moule - Synths, Samples and FX
+    Warren Pratten - Guitars and FX
 
-In addition to my own solo efforts I have collaborated with a number of different people over the years.   The most notable collaborations being [Bits of Food (aka BOF)](/Projects/bitsoffood), [Baku](/Projects/baku), [Name with No Sound](/Projects/namewithnosound), and more recently [Magic Daffodils](/Projects/magicdaffodils)
+ 
 
-You can read about my musical [projects and collaborations](/Projects) here.
+ 
 
-You can check out my [discography](/Discography) here.
-
-You can read about the [gear](/Gear) I use here.
-
-I am a member of the Society of Composers, Authors and Music Publishers of Canada ([SOCAN](http://www.socan.ca)).
+Magic Daffodils can trace their origin back to a long standing collaboration between Cailen and Alex (see Hidden Dances).   In 20??, Cailen and Alex began collaborating with Richard and Bernie.  Originally at Alex's studio and later during the height of COVID physical isolation, playing outside at Alex's farm.   Art was invited to join the group in 2020 and Warren  was invited to join in 2021.
 
 
 
