@@ -2,14 +2,11 @@
 title: Home
 ---
 
-* Freedom from Noise. Noise From Freedom *
-
-
+![In Action](/images/md_posed_composite.jpg)
 
 Introducing the experimental music band that will take you on a sonic journey unlike any other – Magic Daffodils
 
-Born of frustration with the pandemic lockdown and disinformation, misinformation, bad news, bad choices, bad ethics, and bad actors in 2020, six musical friends got together and thought the answer to all that noise just might be more noise. Magic Daffodils was born in London, Ontario. Given the state of world affairs today, noise might be more
-relevant than ever. Lose yourself in the sound. Be free.
+Born of frustration with the pandemic lockdown and disinformation, misinformation, bad news, bad choices, bad ethics, and bad actors in 2020, six musical friends got together and thought the answer to all that noise just might be more noise. Magic Daffodils was born in London, Ontario. Given the state of world affairs today, noise might be more relevant than ever. Lose yourself in the sound. Be free.
 
 Meet noise-makers: Alex Schmoll, Warren Pratten, Art Pratten, Richard Moule, Bernie Koenig, and Cailen Dye.
 
@@ -28,3 +25,4 @@ Finally, Cailen Dye&#39;s bass playing ties everything together, providing a sol
 Together, Alex, Warren, Art, Richard, Bernie, and Cailen form a powerhouse of musical talent, pushing the boundaries of what experimental music can be. Whether performing live or in the studio, this band is sure to captivate and inspire with their unique blend of sound and creativity.
 
 
+Our music can be found on [Bandcamp](https://magicdaffodils.bandcamp.com)
