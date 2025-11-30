@@ -17,5 +17,5 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-profile_photo = "https://avatars.githubusercontent.com/u/45702914"
+profile_photo = "/static/images/magicdaffodils.jpg"
 intro_text = "Freedom from Noise. Noise From Freedom "
