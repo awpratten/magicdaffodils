@@ -4,7 +4,6 @@ title: Magic Daffodils - Home
 
 ![Publicity Shot](/images/md_posed_railing.jpg)
 
-## Introduction
 
 Meet noise-makers: Alex Schmoll, Warren Pratten, Art Pratten, Richard Moule, Bernie Koenig, and Cailen Dye.
 
@@ -28,12 +27,11 @@ Together, Alex, Warren, Art, Richard, Bernie, and Cailen push the boundaries of 
 
 Lose yourself in the sound. Be free.
 
-
-## Social Media
+---
 
 Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) and [Youtube](https://www.youtube.com/@magicdaffodils7535)
 
-## Contact
+---
 
 The band is keen to investigate performance and recording opportunities.   Email to [info@address.com](mailto:info@address.com)
 
