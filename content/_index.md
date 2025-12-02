@@ -33,4 +33,3 @@ Our music can be found on [Bandcamp](https://magicdaffodils.bandcamp.com)
 You can follow us on [Instagram](https://www.instagram.com/magicdaffodils/) and [Youtube](https://www.youtube.com/@magicdaffodils7535)
 
 
-![Action Shot](/images/magicDaffodilsAtTAP.jpg)
