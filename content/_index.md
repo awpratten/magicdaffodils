@@ -2,12 +2,14 @@
 title: Home
 ---
 
-![In Action](/images/md_posed_composite.jpg)
+![Publicity Shot](/images/md_posed_composite.jpg)
 
 
 Introducing the experimental music band that will take you on a sonic journey unlike any other – Magic Daffodils
 
 Born of frustration with the pandemic lockdown and disinformation, misinformation, bad news, bad choices, bad ethics, and bad actors in 2020, six musical friends got together and thought the answer to all that noise just might be more noise. Magic Daffodils was born in London, Ontario. Given the state of world affairs today, noise might be more relevant than ever. Lose yourself in the sound. Be free.
+
+![Action Shot](/images/magicDaffodilsAtTAP.jpg)
 
 Meet noise-makers: Alex Schmoll, Warren Pratten, Art Pratten, Richard Moule, Bernie Koenig, and Cailen Dye.
 
@@ -27,3 +29,7 @@ Together, Alex, Warren, Art, Richard, Bernie, and Cailen form a powerhouse of mu
 
 
 Our music can be found on [Bandcamp](https://magicdaffodils.bandcamp.com)
+
+You can follow us on Instagram and Youtube
+
+![In Action](/images/magicDaffodilsAtHighStreet2025-10-23.png)

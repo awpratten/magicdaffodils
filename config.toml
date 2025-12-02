@@ -17,5 +17,5 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-profile_photo = "/static/images/magicdaffodils.jpg"
+profile_photo = "/static/images/magicDaffodils.jpg"
 intro_text = "Freedom from Noise. Noise From Freedom "
