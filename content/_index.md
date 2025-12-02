@@ -26,7 +26,9 @@ Finally, Cailen Dye&#39;s bass playing ties everything together, providing a sol
 
 Together, Alex, Warren, Art, Richard, Bernie, and Cailen form a powerhouse of musical talent, pushing the boundaries of what experimental music can be. Whether performing live or in the studio, this band is sure to captivate and inspire with their unique blend of sound and creativity.
 
+ou can follow us on [Instagram](https://www.instagram.com/magicdaffodils/) and [Youtube](https://www.youtube.com/@magicdaffodils7535)
 
+The band is keen to investigate new performance and recording opportunities.   Email to [info@address.com](mailto:info@address.com)
 
 
 ![In Action](/images/mdAtHighStreet.jpg)
