@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![Publicity Shot](/images/md_posed_raiing.jpg)
+![Publicity Shot](/images/md_posed_railing.jpg)
 
 
 Introducing the experimental music band that will take you on a sonic journey unlike any other – Magic Daffodils
