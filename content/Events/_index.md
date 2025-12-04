@@ -2,6 +2,8 @@
 title:  Magic Daffodils - Events
 ---
 
+![In Action](/images/mdAtHighStreet.jpg)
+
 ## Upcoming Events
 
 Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) for most up to date information.

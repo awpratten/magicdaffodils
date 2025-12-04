@@ -36,5 +36,5 @@ Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) and [Youtube
 The band is keen to investigate performance and recording opportunities.   Email to [info@magicdaffodils.ca](mailto:info@magicdaffodils.ca)
 
 
-![In Action](/images/mdAtHighStreet.jpg)
+
 
