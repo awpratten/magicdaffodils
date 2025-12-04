@@ -7,7 +7,7 @@ title:  Magic Daffodils - Events
 Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) for most up to date information.
 
 ## Past Events
-|| Date | Venue | Details |
+|| Date | Venue | Details ||
 | :--- | :--: | :--- |
 | 2025-10-23 |  [High Street Resturaunt - By Delhi Gang](https://www.instagram.com/highstreetbydg/) | With [Jon Collin](https://joncollin.bandcamp.com/), Bank of America, BSite45 ||
 | 2025-06-28 |  [TAP Centre for Creativity](https://www.tapcreativity.org/) | With [Arma Agharta](http://www.arma.lt/p/arma.html), [Carrot Cake Milkshake](https://www.instagram.com/carrotcakemilkshake/) |
