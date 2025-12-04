@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Magic Daffodils - Scrapbook
 ---
 
 ![Magic Daffodils at High Street - By Delhi Gang with Jon Collin, Bank of America, and BSite45](/images/magicDaffodilsAtHighStreetWithJonCollin-2025-10-23.jpg)
