@@ -1,6 +1,10 @@
 
+:root {
+  --bs-navbar-hover-color: #ffd700; // Used for navbar link hover color
+  --bs-nav-link-color: #333333; // Used for navbar link color
+}
 .navbar {
-  background-color: #a88c0dd8;
+  background-color: rgba(168, 140, 13, 0.85);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 //   border-bottom-right-radius: 15px;
 //   border-bottom-left-radius: 15px;
@@ -9,16 +13,17 @@
 
 //   @media screen and (max-width: 1200px) {
 //     border-bottom-right-radius: 0;
-//     border-bottom-left-radius: 0;
-//   }
-}
-
-.navbar-text > a {
-  color: var(--bs-nav-link-color);
+  .navbar-text a {
+    color: var(--bs-nav-link-color);
+    &:hover {
+      color: var(--bs-navbar-hover-color);
+    }
+  }
   &:hover {
     color: var(--bs-navbar-hover-color);
   }
 }
+
 
 #navbar-icons {
   font-size: 1.8em;
