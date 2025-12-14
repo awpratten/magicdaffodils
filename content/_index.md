@@ -12,7 +12,7 @@ The band focuses on free form improvisation, creating a sound that is often desc
 Members are
 * Art Pratten - Pratt-a-various
 * Alex Schmoll - synths and effects 
-* Bernie Koenig - drums
+* Bernie Koenig - drums and vibes
 * Cailen Dye - bass and effects
 * Richard Moule - electronic gizmos
 * Warren Pratten - guitar, effects and loops
