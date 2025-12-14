@@ -15,7 +15,7 @@ Members are
 * Bernie Koenig - drums and vibes
 * Cailen Dye - bass and effects
 * Richard Moule - electronic gizmos
-* Warren Pratten - guitar, effects and loops
+* Warren Pratten - guitar and effects
 
 ---
 
