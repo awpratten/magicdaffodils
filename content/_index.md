@@ -14,7 +14,7 @@ Members are
 * Alex Schmoll - synths and effects 
 * Bernie Koenig - drums and vibes
 * Cailen Dye - bass and effects
-* Richard Moule - electronic gizmos
+* Richard Moule - synthesizers, samplers, guitar pedals and effects
 * Warren Pratten - guitar and effects
 
 ---
