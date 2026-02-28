@@ -9,6 +9,7 @@ title: Events
 Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) for most up to date information.
 
 | Date | Venue | Details |
+| :--- | :--- | :--- |
 | 2024-03-24 | [CHRW Radio Western - Beyond the Beyond](https://radiowestern.ca/) | Live to Air performance |
 
 ## Past Events
