@@ -23,6 +23,7 @@ body {
 }
 
 #site-content {
+  /* rgb(168, 140, 13, 0.85) <-- this broke the build*/
   background-color: white;
   padding: 0;
   min-height: 100vh;
