@@ -1,18 +1,18 @@
 /* Background Gradient for Triadic Colors */
 .gradient1 {
-  background-color: rgb(168, 140, 13, 0.85);
+  background-color: rgb(168, 140, 13);
   /* For WebKit (Safari, Chrome, etc) */
-  background: rgb(168, 140, 13, 0.85) -webkit-gradient(
+  background: rgb(168, 140, 13) -webkit-gradient(
       linear,
       left top,
       left bottom,
       from(#d9b19c),
-      to(rgb(168, 140, 13, 0.85))
+      to(rgb(168, 140, 13))
     ) no-repeat;
   /* Mozilla,Firefox/Gecko */
-  background: rgb(168, 140, 13, 0.85) -moz-linear-gradient(top, #d9b19c, rgb(168, 140, 13, 0.85)) no-repeat;
+  background: rgb(168, 140, 13) -moz-linear-gradient(top, #d9b19c, rgb(168, 140, 13)) no-repeat;
   /* IE 5.5 - 7 */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9B19C, endColorstr=rgb(168, 140, 13, 0.85)) no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9B19C, endColorstr=rgb(168, 140, 13)) no-repeat;
   /* IE 8 */
   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9B19C, endColorstr=#D9B19C)"
     no-repeat;
@@ -23,7 +23,6 @@ body {
 }
 
 #site-content {
-  /* rgb(168, 140, 13, 0.85) <-- this broke the build*/
   background-color: white;
   padding: 0;
   min-height: 100vh;
