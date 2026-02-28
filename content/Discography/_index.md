@@ -1,5 +1,5 @@
 ---
-title: Magic Daffodils - Discography
+title: Discography
 ---
 
 ![Action Shot](/images/magicDaffodilsAtTAP.jpg)

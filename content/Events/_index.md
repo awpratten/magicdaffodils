@@ -1,5 +1,5 @@
 ---
-title:  Magic Daffodils - Events
+title: Events
 ---
 
 ![In Action](/images/mdAtHighStreet.jpg)
