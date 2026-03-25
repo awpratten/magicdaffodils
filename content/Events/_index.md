@@ -10,11 +10,13 @@ Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) for most up 
 
 | Date | Venue | Details |
 | :--- | :--- | :--- |
-| 2026-03-24 | [CHRW Radio Western - Beyond the Beyond](https://radiowestern.ca/) | Live to Air performance |
+| TBD | [Doors Pub](https://restaurantguru.com/Doors-Pub-Hamilton) - Hamilton Ontario | |
+
 
 ## Past Events
 | Date | Venue | Details |
 | :--- | :--- | :--- |
+| 2026-03-24 | [CHRW Radio Western - Beyond the Beyond](https://radiowestern.ca/) | Live to Air performance and recording session. |
 | 2025-10-23 |  [High Street Resturaunt - By Delhi Gang](https://www.instagram.com/highstreetbydg/) | With [Jon Collin](https://joncollin.bandcamp.com/), Bank of America, BSite45 ||
 | 2025-06-28 |  [TAP Centre for Creativity](https://www.tapcreativity.org/) | With [Arma Agharta](http://www.arma.lt/p/arma.html), [Carrot Cake Milkshake](https://www.instagram.com/carrotcakemilkshake/) |
 | 2024-12-20 |  [TAP Centre for Creativity](https://www.tapcreativity.org/) | With [Mas Aya](https://masayamasaya.bandcamp.com/), [Slow Attack Ensemble](https://slowattackensemble.bandcamp.com/) |
