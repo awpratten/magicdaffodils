@@ -2,6 +2,8 @@
 title: Scrapbook
 ---
 
+![Magic Daffodils at 2026 Synth Picnic, Lucy's Run](/images/2026SynthPicnicLucysRun.png)
+
 ![Magic Daffodils at High Street - By Delhi Gang with Jon Collin, Bank of America, and BSite45](/images/magicDaffodilsAtHighStreetWithJonCollin-2025-10-23.jpg)
 
 ![Magic Daffodils at TAP Centre for Creativity Poster with Arma Agharta and Carrot Cake Milkshake- 2025-06-30](/images/magicDaffodils_at_TAP_poster-2025-06-28.jpg)
