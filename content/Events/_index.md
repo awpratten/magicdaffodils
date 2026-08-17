@@ -16,7 +16,7 @@ Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) for most up 
 ## Past Events
 | Date | Venue | Details |
 | :--- | :--- | :--- |
-| 2026-08-15 | Lucy's Run | An afternoon and evening of music making with some of London's finest electronic and experimental musicians |
+| 2026-08-15 | 2026 Synth Picnic - Lucy's Run | An afternoon and evening of music making with some of London's finest electronic and experimental musicians |
 | 2026-03-24 | [CHRW Radio Western - Beyond the Beyond](https://radiowestern.ca/) | Live to Air performance and recording session. |
 | 2025-10-23 |  [High Street Resturaunt - By Delhi Gang](https://www.instagram.com/highstreetbydg/) | With [Jon Collin](https://joncollin.bandcamp.com/), Bank of America, BSite45 ||
 | 2025-06-28 |  [TAP Centre for Creativity](https://www.tapcreativity.org/) | With [Arma Agharta](http://www.arma.lt/p/arma.html), [Carrot Cake Milkshake](https://www.instagram.com/carrotcakemilkshake/) |
