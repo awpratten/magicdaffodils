@@ -10,7 +10,7 @@ Follow us on [Instagram](https://www.instagram.com/magicdaffodils/) for most up 
 
 | Date | Venue | Details |
 | :--- | :--- | :--- |
-| 2026-10-09 | [Demo Memo](https://www.instagram.com/demomemo905/) - Hamilton, Ontario | Part of their Noise Night series | |
+| 2026-10-23 | [Demo Memo](https://www.instagram.com/demomemo905/) - Hamilton, Ontario | Part of their Noise Night series | |
 
 
 ## Past Events
