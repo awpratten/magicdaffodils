@@ -2,6 +2,8 @@
 title: Scrapbook
 ---
 
+![Magic Daffodils at DemoMemo, Hamliton, Ontario](/images/magicDaffodilsAtDemoMemo2026-10-23.jpg)
+
 ![Magic Daffodils at 2026 Synth Picnic, Lucy's Run](/images/2026SynthPicnicLucysRun.png)
 
 ![Magic Daffodils at High Street - By Delhi Gang with Jon Collin, Bank of America, and BSite45](/images/magicDaffodilsAtHighStreetWithJonCollin-2025-10-23.jpg)
