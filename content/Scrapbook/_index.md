@@ -2,7 +2,7 @@
 title: Scrapbook
 ---
 
-![Magic Daffodils at DemoMemo, Hamliton, Ontario](/images/magicDaffodilsAtDemoMemo2026-10-23.jpg)
+![Magic Daffodils at DemoMemo, Hamliton, Ontario](/images/magicDaffodilsAtDemoMemo2026-10-23.png)
 
 ![Magic Daffodils at 2026 Synth Picnic, Lucy's Run](/images/2026SynthPicnicLucysRun.png)
 
